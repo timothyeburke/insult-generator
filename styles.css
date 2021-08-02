@@ -1,0 +1,22 @@
+html, body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: #ddd;
+    background: #111;
+    margin: 10vh 10vw 0 10vw;
+    font-size: 40px;
+}
+
+#insult {
+    font-weight: bold;
+}
+
+#button {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background: #333;
+    color: #bbb;
+    padding: 10px 20px;
+    cursor: pointer;
+}
